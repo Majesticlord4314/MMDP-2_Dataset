@@ -1,0 +1,934 @@
+Title: Growth at all costs is destroying the internet. PR maven Ed Zitron says that’s an opportunity for startups.
+Date: 2025-03-05T15:55:33+00:00
+Content:
+Media & Entertainment
+TechCrunch Brand Studio
+If you spend any amount of time online, you probably noticed that your user experience keeps getting worse.
+Websites are waterlogged with autoplay ads, pop-ups, and tracking scripts. Customer service chatbots are useless, despite the promises of generative AI. Social media algorithms boost rage-bait to keep you scrolling and engaged. Dating apps hide all the good ones behind a paywall. Your printer won’t work without a monthly subscription. Oh, and good luck canceling that subscription in three clicks or less.
+This is the backwash of the internet’s shift from a user-first experience to one designed to maximize engagement, ad revenue, and subscriptions.
+Ed Zitron, CEO ofEZPRand host of the Better Offline podcast, calls it the “rot economy,” the result of “a tech industry that has become so obsessed with growth that you, the paying customer, are a nuisance to be mitigated far more than a participant in an exchange of value.”
+In arecent episode of the Equity podcast, I spoke to Zitron — who is writing a book called “Why Everything Stopped Working” — about why the stagnation of major companies creates the perfect opportunity for startups to challenge incumbents across various industries.
+Zitron didn’t hold back when describing Big Tech’s decline, criticizing its obsession with quarter-to-quarter growth that leads to subpar products: “They’re ugly, they’re expensive, they don’t work very well, you don’t like using them.” He argued that many of these dominant players have grown “fat and lazy” and “overconfident,” their business models based on the idea that “it’s just easier to stay with us.”
+“You can beat that,” Zitron said. “Anything you see on the web that sucks right now is at threat.”
+As Zitron sees it, there are numerous areas that are ripe for disruption. One of the most obvious is social media, where he notes that “to use Instagram right now is to fight Meta to get to the things you want” and get past what Meta wants you to see. “And Facebook is even worse,” he laments.
+This crummy user experience, combined with the political maneuverings on Elon Musk and Mark Zuckerberg, is why we’re seeing peopledefectfromXandMetaand sign up for platforms on the decentralized web, which is a system of independent, privately owned servers that work together to provide private and secure access to information and services.
+BlueskyandMastodonhave emerged as popular alternatives to X, and many startups are throwing their hats in the ring to challenge Instagram and TikTok. In the decentralized space, Bluesky is launching aphoto-sharing app called Flashes, andPixelfedis already attracting users. Many TikTok users havedownloaded RedNoteas the ByteDance-owned app remains in limbo.
+Zitron similarly sees massive opportunities when it comes to enterprise and productivity offerings like Microsoft 365 that aren’t “great.”
+Zitron said of Microsoft broadly, “They don’t make great products. They haven’t in some time.” Here, he added that he would “maybe put the gaming [division] aside” from this complaint. “I quite like the Xbox division,” he said. Then he added: “But they love laying people off and I’m sure that that place is going to slop soon.”
+But it’s not just Microsoft. Zitron argued that many once-beloved Silicon Valley darlings — like Microsoft, Salesforce, Dropbox, and Zoom — lost their way after going public. The pressure to deliver quarter-over-quarter growth to appease shareholders invariably forces companies to prioritize short-term gains over long-term product quality.
+He pointed to Google Docs as an example of growing corporate overreach designed to benefit a company at its users’ expense.
+“Google Docs was beloved for being this really clean, easy-to-use thing,” Zitron said. “The problem is now it’s telling me that it needs AI. I must use Gemini in it now.”
+Zitron called Adobe “the weakest company in tech” at the moment, calling them “desperate” and calling for a replacement. Some potential challengers we’ve seen include Figma, Affinity, and Blender.
+Generally, Zitron thinks consumers will have a role to play in this shift as they cotton onto the self-serving “laziness” of incumbents.
+“I believe in the next year, we’re going to see a real shift in consumers, both business and otherwise, away from these shitty companies. And when I say shitty companies, I mean most of Big Tech.”
+Google in particular is already facing an assault by numerous startups, and deservedly so in Zitron’s mind. Google Search used to surface the best links for your query. Now it surfaces a page of sponsored links that don’t answer your question.
+“Google search is bad now,” he said, noting that DuckDuckGo “apparently makes money” and may be able to rise if the judge inGoogle’s search antitrust trialforces the company to share its datasets with competitors.
+Zitron didn’t list all the other search competitors, but it’s worth mentioning a few. Perplexity, for example, is competing with chatbot-style search that answers questions directly in a conversational way while citing resources.Diem is a female-focused social search enginewith an AI chatbot that’s fighting against data bias in a world designed for men. In the decentralized space, Marginalia Search boosts obscure, non-commercial sites rather than SEO-optimized junk, while OpenSearch is an independent, crawler-based engine.
+For users who prioritize not just a better search experience but also a more privacy-focused search, there’s Kagi, a paid, private search engine with a focus on high-quality results and no ads.
+There’s also Brave Search, a fully independent search index that doesn’t rely on Google or Bing. Brave also has a privacy-focused browser that blocks ads and trackers by default.
+Zitron believes email is another area that a startup could “take on.” While email is one of the dominant communication tools, most of our inboxes are cluttered with spam and disorganized due to clunky UX from giants like Outlook, Gmail, and Yahoo. The same is true for enterprise email, like Microsoft Exchange and Google Workspace.
+There are plenty of opportunities for disruption here, notes Zitron. He says an offering from the end-to-end encrypted email service Proton “isn’t as usable as it needs to be,” but it’s not the only game in town (rival services include Tutanota and Skiff). At the same time, increasingly popular alternatives Superhuman, Hey, and Shortwave are trying to rethink user experience in email.
+Zitron sees opportunities for disruption everywhere, and not just in a purely digital sense. He also sees an opportunity for startups to take on Amazon’s shipping and logistics business by “creating a coalition of other companies with smaller businesses — a Shopify for the delivery side.”
+Whether it’s coming up with a new real estate technology to replace the “fat and happy” Zillows of the world, or a better version of Canva that’s not bloated with AI offerings, Zitron has called for a fresh take on the venture capital model. He says VC has too long focused on growth at all costs, which has created astranded generationof startups that raised too much money — and have nowhere to go as a result.
+Zitron’s PR business is to draw attention to startups, so it’s in his interests to underscore the many shortcomings of Big Tech in comparison. Still, it was an inspiring chat.
+If you’re hankering for a better user experience, or you’re working on something to take down the bigs, you’ll definitely enjoy it. Check out our chathere.
+Senior Reporter, Transportation
+Rebecca Bellan covers transportation for TechCrunch. She’s interested in all things micromobility, EVs, AVs, smart cities, AI, sustainability and more. Previously, she covered social media for Forbes.com, and her work has appeared in Bloomberg CityLab, The Atlantic, The Daily Beast, Mother Jones, i-D (Vice) and more.
+Rebecca studied journalism and history at Boston University. She has invested in Ethereum.
+SpaceX Starship spirals out of control in second straight test flight failure
+Google co-founder Larry Page reportedly has a new AI startup
+Scale AI is being investigated by the US Department of Labor
+Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’
+ChatGPT on macOS can now directly edit code
+Mistral adds a new API that turns any PDF document into an AI-ready Markdown file
+OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’
+Subscribe for the industry’s biggest tech news
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch's AI experts cover the latest news in the fast-moving field.
+Every Monday, gets you up to speed on the latest advances in aerospace.
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+By submitting your email, you agree to ourTermsandPrivacy Notice.
+----------------------------------------
+Title: ByteDance enters the deepfake AI video arena
+Date: No Publication Date
+Content:
+Media & Entertainment
+TechCrunch Brand Studio
+TikTok-owner Bytedance has demoed a new AI system,OmniHuman-1, that can create eerily realistic videos. According to ByteDance researchers, the model only needs a reference image and audio to generate a clip. The aspect ratio and subject’s body proportion are both adjustable. OmniHuman-1 isn’t perfect, but it’s a good deal better than other deepfake generators we’ve seen.
+SpaceX Starship spirals out of control in second straight test flight failure
+Google co-founder Larry Page reportedly has a new AI startup
+Scale AI is being investigated by the US Department of Labor
+Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’
+ChatGPT on macOS can now directly edit code
+Mistral adds a new API that turns any PDF document into an AI-ready Markdown file
+OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’
+Subscribe for the industry’s biggest tech news
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch's AI experts cover the latest news in the fast-moving field.
+Every Monday, gets you up to speed on the latest advances in aerospace.
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+By submitting your email, you agree to ourTermsandPrivacy Notice.
+----------------------------------------
+Title: Intuitive Machines’ second moon lander is dead
+Date: 2025-03-07T20:28:55+00:00
+Content:
+Media & Entertainment
+TechCrunch Brand Studio
+Intuitive Machines’ Athena lunar lander is dead, just one day after it touched down at the moon’s south pole and tipped over. Luckily, the company says it was able to “accelerate several program and payload milestones” and deploy a few of the experiments that were riding shotgun before Athena’s lander ran out of juice.
+The quick end to the Athena mission marks the second time in a row that Intuitive Machines has landed a spacecraft on the moon only to have the mission go quite literally sideways. The company’s Odysseus spacecraft touched down and then tipped overlast February.
+The troublesome Athena mission comes months after NASA tapped Intuitive Machines to help develop a lunar communications system in a contract that could be worth as much as $4.8 billion (though just $150 million of that is guaranteed).
+The company said that the orientation of Athena’s solar panels, combined with the direction of the sun and the extreme cold temperatures of the crater where it landed, means the spacecraft cannot recharge its batteries. “The mission has concluded and teams are continuing to assess the data collected throughout the mission,” the company wrote inan updateFriday.
+Intuitive Machines says it was able to get NASA’s Polar Resources Ice Mining Experiment deployed. That experiment contains a drill that can penetrate up to three feet into the moon’s surface. The company didn’t clarify what other experiments it was able to deploy, but it was carrying a rover with Nokia cellular technology and a solid-state “lunar data center,” among others.
+Sr. Reporter, Transportation
+SpaceX Starship spirals out of control in second straight test flight failure
+Google co-founder Larry Page reportedly has a new AI startup
+Scale AI is being investigated by the US Department of Labor
+Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’
+ChatGPT on macOS can now directly edit code
+Mistral adds a new API that turns any PDF document into an AI-ready Markdown file
+OpenAI reportedly plans to charge up to $20,000 a month for specialized AI ‘agents’
+Subscribe for the industry’s biggest tech news
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch's AI experts cover the latest news in the fast-moving field.
+Every Monday, gets you up to speed on the latest advances in aerospace.
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+By submitting your email, you agree to ourTermsandPrivacy Notice.
+----------------------------------------
+Title: SpaceX’s latest Starship explosion lights up the sky over the Caribbean again
+Date: 2025-03-07T16:54:46+00:00
+Content:
+﻿The falling debris from the failed 8th Starship test flight also caused flight delays and diversions.
+﻿The falling debris from the failed 8th Starship test flight also caused flight delays and diversions.
+Stop us if you’ve heard this one before. Similar to the aftermath fromSpaceX’s failed seventh test flight on January 16th,yesterday’s explosion following the launch of Starship’s eighth test flightcreated another spectacle in the night sky as debris rained down over parts of the Caribbean causing flights to be delayed and diverted in Florida and Turks and Caicos Islands.
+Following a successful launch, Starship separated from the Super Heavy booster rocket which returned to the launch pad and was captured by the launch tower for the third time. But during the upper stage’s ascent burn, “an energetic event in the aft portion of Starship resulted in the loss of several Raptor engines,”according to a statement SpaceX shared to its websitelast night. That caused Starship to lose attitude control and spin uncontrollably before exploding. SpaceX lost communications with the craft nine minutes and 30 seconds after the launch.
+Full details about that “energetic event” aren’t yet known, butas with Starship’s last test flight, a self-destruct could have been potentially triggered as part of a pre-planned contingency response.
+Following the explosion, the Federal Aviation Administration “issued ground stops for flights departing for Miami, Fort Lauderdale, Orlando and Palm Beach airports for more than an hour before resuming normal operations at around 8PM ET,”according toReuters. Operations at Tampa International Airport weren’t affected by the falling debris, but two flights headed to Miami were diverted to Tampa, while a flight headed to San Juan, Puerto Rico, had to return to TIA,according toKTLA.
+Footage of Starship’s explosion, captured from Florida, wasshared to X by Trevor Mahlmann. In the 30-second clip, a bright flash is followed by what appears to be an expanding, spiraling cloud in the dusk sky that eventually disperses and fades away.
+TheYouTube channel Astronomy Livealsoshared video of Starship’s explosion, captured through an 11-inch telescope from Florida providing a close-up view of the aftermath which they describe as a “spiral galaxy” as burning fuel sprayed in all directions.
+As with the SpaceX incident in January, several people shared videos to social media of Starship’s burning debris field from the ground, boats, and even planes as it streaked across the sky over the Bahamas.
+With the two most recent Starship test flights ending in a “rapid unscheduled disassembly” asSpaceX describes the explosions, there could be even more eyes and cameras trained at the skies when the ninth test flight takes place. But depending on how long it takes to sort out what happened yesterday — and what’s needed to prevent it from happening again — it could be a while before the next launch takes place.
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.
+----------------------------------------
+Title: The Verge
+Date: No Publication Date
+Content:
+Leaked plans reveal the ambitions — and risk appetite — of the biggest YouTuber on earth.
+That’s one of the minor changes the Justice Department made toits proposed final judgementin itsantitrust case. The DOJ Antitrust Division is still operating under an acting chief as President Donald Trump’s nominee Gail Slater awaits confirmation. But so far, the government made only small tweaks to its asks based on discovery. It’s no longer asking that Google divest AI investments, for example, but that it give a heads up on future ones.
+[storage.courtlistener.com]
+Phil Molyneux is stepping down as chief executive of the embattled e-bike company,Electrekreports. The once dominant e-bike company has faced a series of challenges over the years, includinglayoffs,recalls,import taxes,lawsuits, andregulations. And now it appears to be going through another leadership shakeup. Molyneux, a former Sony and Dyson executive, was Rad Power Bikes’ chief operating officer when founder and CEO Mike Radenbaugh tapped him as his replacement. According toElectrek, the company’s CFO Stephanie Roberts will serve as interim CEO while the board searches for a replacement.
+Kate Siber documented her recent experience taking her work outside every day for a monthforOutside(via Jason Kottke). After reading this, I kind of want to try it, too.
+Meta is testing a new feature that lets you add specific topics to a dedicated “Interests” section on your Threads profile, asspotted by @faslu_35. The company confirmed the testtoTechCrunch.
+This perfect billboard was spotted in LA byThe Curbivore(which crossed my radar viaGlenn Mercer’s Car Charts). My hat’s off to the Law Brothers’ pun game. And the fact that this photo was taken from a Waymo vehicle is just the cherry on top.
+Officials are also weighing banning DeepSeek from US app stores and “putting limits” on cloud providers’ ability to offer access to its cost-efficient AI models, according to a report fromThe Wall Street Journal. Both the Navy and NASA have already blocked the Chinese startup’s technology over security concerns.
+While Musk and Rubio beefed about who should really be in charge of the state department, an unelected billionaire or the secretary of state, “the president sat back in his chair, arms folded, as if he were watching a tennis match.” The result of the meeting was the first attempt to put any brakes on Musk’s power.Good luck with that!
+FormerGizmodoEICDan Ackerman’s lawsuitalleging that Apple, the Tetris company, screenwriter Noah Pink and others ripped off his 2016 book,The Tetris Effect: The Game That Hypnotized the World, fortheir 2023 Apple TV Plus moviehas been dismissed.ReutersreportsAckerman’s lawyer said he will appeal the decision.
+In herruling, Judge Katherine Failla writes:
+Ultimately, the Court finds that Defendants’ Film is not substantially similar to Plaintiff’s Book and that Plaintiff has failed to allege that Defendants misappropriated the way he selected, coordinated, and arranged the facts in his Book.
+Where the Book’s tone is informative, the Film’s is suspenseful and dramatic, at times deviating from the true facts underlying the story and going so far as to invent an entire KGB subplot, which takes up significant screen time, to create that theatrical effect.
+The mute key’s label now features a speaker with a strike through it so it more closely resembles the icon that appears in macOS when pressed, asspotted byiCulture. Apple made the change on thenew iPad Air’s Magic Keyboard, too.
+Lena Raine, the composer ofCeleste’s amazing soundtrack, shared some songs from theCelesteteam’scancelled gameEarthbladeon Bandcamp.
+“Because we’ll never get a chance to tell that story in game form, I decided to cobble together every bit of music I’d written for the game to the point of its cancellation in order to tell my own version of it,” Raine says.
+By the way, Bandcamp Fridaysare back for 2025.
+Update: Added Bandcamp Fridays link.
+[radicaldreamland.bandcamp.com]
+That was the working title ofBalatro, according toa blog postfrom developer LocalThunk about the development of the game. The production working folder for theBalatrosource code is apparently still titled “CardGame.”
+Last year,United announced its intention to upgrade its entire fleetwith Wi-Fi powered by Elon Musk’s Starlink satellites. As of today, the first Starlink-equipped regional plane is ready to fly. United said it only took about 8 hours to install the equipment, which is about 10 times faster than installing non-Starlink WiFi tech. The carrier plans to upgrade approximately 40 planes each month starting in May, with the goal of equipping the entire fleet of two-cabin regional aircraft by the end of the year.
+His distorted face has been inescapable on social media —blown up and tinted like a blueberry,smooth and textureless,edited as a Minion and Furby.What began as “an easy own”has spiraled into a full-blown meme of making the vice president look like a child with a propeller hat and candy. Vance, apparently,is definitely not mad and is laughing, actually.
+A day after workers at the US African Development Foundation blocked Elon Musk’s cronies from entering their office, DOGE employees came back with federal marshals,The New York Timesreports. The DOGE team hadbeen describedas “very young men” with backpacks. ThisTimesphoto shows the DOGE employees entering on Thursday with their escort.
+We gave a brief overview of the components that make up the prototype AR glasses in ourOrion hands-on, but Meta just released a series of blogs that go deep. I meanreal deepinto why they pickedsilicon carbide, as well as the tech in itscustom silicon chipsandcompute pucks. There’s also some neat photos, especially in the blog on the silicon chips, that give you a good sense of all the tech in those glasses.
+Google’s new affordable phone has leaked repeatedly already, but it’s back again in new images shared byEvan Blass on X. They’re mostly marketing images and renders of the purple model — supposedly dubbed “Iris” — and closely match thedesign we’ve seen before, complete with an almost perfectly flat camera bump.
+The 9A is rumored to launch this month with a bigger battery, new cameras, and a $499 starting price.
+Meta AI fans on Android will soon be able to get to the chatbot more quickly via WhatsApp. Awidget is in the worksoffering direct shortcuts to open the chat with the AI, send an image to it, or begin a voice chat. Some WhatsApp beta users already have the widgets available, though no date’s been set for an official launch.
+Meta is reportedlyworking on a standalone AI apptoo.
+Following theMiraidon project created by Toyotalast year, both of the legendary mascots fromPokémon Scarlet and Violethave now been brought to life. The life-size Koraidon prototype is on display until Sunday atTokyo’s Honda Aoyama Building. Its legs can actually move to imitate how the Pokémon runs in-game! The bike is only for show right now, but may be moving by this summer at a leisurely 6 mph.
+©2025Vox Media, LLC. All Rights Reserved
+----------------------------------------
+Title: Breaking down the DOJ’s plan to end Google’s search monopoly
+Date: 2024-11-27T16:50:24+00:00
+Content:
+Selling Chrome might not be the most painful part of the DOJ’s antitrust demands for Google.
+Next year, a court might tell Google to do anything from syndicating its search results to selling the Chrome browser. These remedies and more were included in arequest last week from the Justice Department, which is aiming to break up Google’s search monopoly.
+The DOJ’s proposals clued in the public to what the government really wants out of Google. Though the complaint was filed in 2020, the first phase of the trial focused only on whether Google was liable for the antitrust harms the government alleged. After Judge Amit Mehta ruled this summer thatGoogle is an illegal monopolistin general search services and search text advertising, the government has finally laid out its plan for how to restore competition, with proposals ranging from relatively simple tweaks in business practices to large structural changes.
+The remedies the DOJ is seeking “would imperil Google’s ability to compete in its core business of search and search advertising,” says David Halliday, teaching associate professor of strategic management and public policy at George Washington School of Business. Judge Mehta accepting these remedies wouldn’t be “quite as big a deal as breaking up Standard Oil, but this would be a bigger deal, I think, than breaking up AT&T.”
+If Mehta accepts only some of these proposals after a two-week trial in April, Google might be in better shape. But it could still see billions of dollars shaved off its empire. And according to experts watching the case, attention-grabbing options like a Chrome sale may not be the biggest threat to Google’s power.
+The DOJ says that Google should be forced to sell Chrome because, as the largest browser by market share, it serves as a critical access point for search. It’s installed by default on Android phones and captures around 60 percent of the US browser market.
+The goal here is to keep Google from owning a crucial gatekeeping platform that it can use to funnel users to its own search engine and steer them away from others. In practice, the proposal raises a lot of questions about how a sale would impact the web.
+There are several options for potential buyers: Rumble, the anti-“cancel culture” video platform, has alreadydeclared its interest. Bloomberg Intelligence senior tech analyst Mandeep Singh says most other big tech companies that might want it, like Amazon and Meta, would likely be blocked as potential antitrust threats. Apple might be an exception, Singh says, if the government wants to incentivize it developing a rival search engine — something Google highly discouraged with a lucrative revenue-sharing deal. (That said, Apple already owns a major browser, which would consolidate the tech market in a different way.) Depending on who buys Chrome, the court could also approve conditions that constrain how a buyer leverages it.
+“There is definitely an issue about whether you’re just simply transferring a valuable asset from one company where these assets are too tightly integrated, to another company.”
+Outside the standard big tech players, Chrome could also be valuable to large language model companies like OpenAI or Anthropic, where it could provide a distribution channel for their AI chatbots. “Chrome as an independent entity doesn’t generate any revenue,” Singh notes — its value lies in having a huge audience to monetize. So plugging it into another search-based product, especially if the DOJ wins other remedies like data-sharing rules, is a likely prospect.
+Will this actually create a better, more competitive environment for search engines? Or will it just give another company (perhaps even a massive one like Microsoft, which works closely with OpenAI) its own anti-competitive advantage? “There is definitely an issue about whether you’re just simply transferring a valuable asset from one company where these assets are too tightly integrated, to another company,” says Shubha Ghosh, director of the Intellectual Property Law Institute at Syracuse University. DuckDuckGo SVP of public affairs Kamyl Bazbaz says the judge and DOJ “should be thoughtful about how to make sure that a sale doesn’t result in creating another space that’s hard to compete for all search engines.”
+But even if a company like OpenAI can tie a browser with its search product, Singh says it wouldn’t necessarily have the same impact on the market. “When you think about the time spent on the internet as an aggregate, Google still has the most time spent,” thanks to everything from YouTube to Gmail, says Singh. That makes it a unique powerhouse for advertising — which is, fundamentally, how search engines (and likely, eventually, some AI services) make money. “You can’t replicate engagement.”
+“When you think about why the ads shown on Google are so effective, Chrome is a big part of that.”
+The DOJ says Google would also need to spin out its open-source browser project Chromium — which helps power the Brave, Opera, and Microsoft Edge browsers — as part of the Chrome sale. The nonpartisanConsumer Choice Center has expressed concernover this outcome, saying it could put the project “in jeopardy.” Singh seems less concerned, saying the open-source project may “take its own course,” but that’s still a significant risk for browser makers that rely on it.
+Depending on what restrictions a buyer faces, Chrome could offer a huge distribution channel for whatever other products they offer. For consumers, the browser experience will likely depend on who ends up buying it — a company that already has a savvy browser-building team like Apple or a company or group without that specialized experience, like a private equity firm.
+Selling off Chrome won’t necessarily mean its users stop going to google.com, whose name has been synonymous with “search engine” for decades. “I think Google Search will still be the most visited page,” says Singh. “But it’s just the ad business. When you think about why the ads shown on Google are so effective, Chrome is a big part of that.”
+The Chrome sale is part of a larger project: stopping Google from usingallits many tools and platforms to unfairly promote each other. The government says Google should be barred in particular from preferencing its search engine on other services — that means avoiding things like making Google Search mandatory on Android or degrading the quality of competing products there.
+“Google would essentially be forbidden from managing a search engine that did anything other than collect people who went to google.com or set their preferences as google.com,” says Halliday. “It would actually allow all of their competitors much more flexibility than Google.”
+The DOJ wants the judge to prohibit Google from doing things like giving its own search, search text ads, or AI products “preferential access to Android or Google-owned apps or data” relative to competitors. That means Google couldn’t do things like make its Gemini AI product mandatory on Android devices or degrade the quality of rival products on Android.
+The demand that Google sell Chrome might be the DOJ’s most eye-catching proposal, but another section could be an even bigger deal. The government wants Google to syndicate the very data its search engine is built upon — disrupting a self-reinforcing cycle that helps Google stay on top.
+The DOJ says that as Google gobbled up access points to search engines, its huge volume of search queries gave it another advantage. It’s got more information than any competitor about which search results people find useful, and the government argues that makes it impossible for anyone to catch up. The result is that Google faces little competitive pressure to keep making its service better — which, even if it’s got the best search engine in the business, may end up making users’ experience worse. (If you don’t like AI summaries injected on top of your search results, for instance, do you want the engine using them to be the only game in town?)
+The government’s proposal would (in theory) change that. For 10 years, the DOJ wants Google to syndicate its search results, ranking signals, and query data to competitors at a marginal cost. That kind of information could let competing search engines like Microsoft’s Bing or DuckDuckGo very quickly improve their products. If that happens, search engines’ competitive edge would likely center more around the additional product features they offer — anything from privacy to user interface details.
+Singh called the DOJ’s search results remedy “the strongest” of all the proposals. Google has been able to build up a robust moat through its extensive data collection over the years, Singh says, so “if you make that search index available to everyone, then potentially, you could see more competition in search as a result of that.”
+Google will make money from syndicating this data, but Singh says it won’t outweigh losing its huge advantage in search. He predicts it could cut Google’s search revenue by up to 10 percent, comparing the impact to Meta’s$10 billionrevenue hit after Apple started requiring stricter privacy settings on iOS.
+“If that were to happen, suddenly your LLM search companies like OpenAI, Anthropic, Mistral, Perplexity, these guys will be a formidable competitor in search,” Singh says. “The reason why people go to Google Search is because their search indexes are just the best.”
+“It’s not like Google created the data. They created the platform that allowed the data to be generated.”
+Ordering so-called behavioral remedies is far more likely than a breakup and still quite threatening to Google’s bottom line, according to Bloomberg Intelligence litigation analysts Matthew Schettenhelm and Jennifer Rie. “A behavioral order is likely to result in loss of the default position and market share,” they write in a recent research note. “The ultimate impacts will depend on the injunction’s scope and subsequent user behavior,” but they predict a possible net loss upwards of $28 billion. While Google plans to appeal the ruling, Schettenhelm and Rie predict that the DC District Court decision will be upheld, calling it “well-reasoned, thorough and based on a straightforward antitrust framework.”
+It may sound surprising for the government to make Google license some of its most valuable data, but Ghosh says it’s possible. “Data is not really protected, per se, by intellectual property,” he says. “It’s not like Google created the data. They created the platform that allowed the data to be generated.” It’s like asking who owns a news event, he adds. “The news is just what happens, and you just have an agency that collects it or observes it. But that doesn’t by itself create any kind of property right.”
+That said, Halliday notes that syndication fees will still almost certainly make Google rich. “By rich, I mean less rich than today,” he says, “but still very, very rich compared to other companies.”
+Perhaps the most straightforward request is a ban on Google striking exclusionary contracts for preferred placement of its search products on browsers and phones. Google would be banned from entering revenue-share agreements to distribute its search product or offer anything of value to Apple, Android phone-makers, or browser companies for any kind of default preinstallation or preferred placement. That means an end to things like itsmultibillion-dollar deal with Applefor prime placement on Safari for macOS and iOS.
+This isn’t surprising given how much of the trial focused on that Apple revenue-sharing deal. But ironically, Google may actually benefit from some of these changes. “Even if you prevent these contracts from being done between companies and introduce a bidding mechanism, there may not be any other bidder that is willing to pay $20 billion to Apple,” says Singh. “In that case, if anything, the traffic acquisition costs may go down for Alphabet, and people may still use Google because it has the brand and these habits are hard to change. And so that may actually be a net benefit to Google.”
+Halliday says prohibiting Google’s default agreement for Apple is “probably a wash at the end for Google” since it gets to save the money it spent there. But it would likely still impact Google’s revenue by reducing the number of people searching on its service.
+Mozilla warns that the DOJ’s proposal could “unnecessarily impact browser competition”
+The proposed judgment would require choice screens on Chrome and Android for users to select their preferred search engine. This kind of remedy has been tried as an antitrust remedy in Europe, where it’sreportedly had little impact on Google’s market share. But some proponents have pinned the blame on how Google implemented it, something an independent committee could review here. The state plaintiffs led by Colorado are also requesting Google fund a national education program that will inform consumers about the remedies. That could even include “short-term incentive payments to users who voluntarily choose a non-Google default GSE [general search engine] on a Choice Screen.”
+While competitors to Google Search and Chrome would certainly benefit from many of the remedies, Mozilla — which runs the Firefox browser andrelies massively on payments from Google— warns that the DOJ’s proposal could “unnecessarily impact browser competition.” Mozilla spokesperson Brandon Borrman says in a statement that “as written, the remedies will harm independent browsers without material benefit to search competition.” During the trial, Google pointed out that Firefox actuallydidswitch to Yahoo search at one point — only to come back to Google afterusers hated it.
+But DuckDuckGo’s Bazbaz says the industry could see “a rising tide lifts all boats.” The theory goes that, over time, ad revenue would follow other search engines as they increase in size, helping their revenue-share payments to distribution channels like Mozilla make up for the large payments it would lose from Google. And Apple in particular could have a greater incentive to develop its own search competitor without the exclusive agreement, something the government has frequently emphasized.
+Judge Mehta also found Google maintained an illegal monopoly in the search text ads market, charging more than a reasonable competitive price for ads while degrading their quality. To remedy that, the government is proposing that Google give advertisers more transparency and control. Under the proposal, Google would have to give advertisers more insight into their ad performance and costs and give them more options in how their ads are targeted. Google would also have to let advertisers export their search text ad data, making it easier to switch to rivals.
+There’s one demand the government notably didn’t make: forcing Google to sell Android. But it says the option should be available should Google fail to comply with other remedies or if these remedies prove less effective than anticipated.
+“Google is going to have a lot of incentives to not comply,” says Adam Epstein, president and co-CEO of adMarketplace, a search advertising marketplace. “That really is where the ball game is going to get won or lost for the consumer and the advertisers and the publishers.“ In that case, an Android sell-off is one of the final cards the DOJ could play.
+“The only silver lining here for Alphabet is the DOJ is talking about a forced sale of Chrome and not Android.”
+Like Chrome, Google’s Android mobile operating system serves as an important access point for search. Losing Android, Singh says, would “really hit them in the gut,” since it’s where Google gets so much of its mobile distribution. It would put its dominance in search up for grabs in a new way.
+“The only silver lining here for Alphabet is the DOJ is talking about a forced sale of Chrome and not Android,” says Singh. “[The] operating system is way, way more important than anything else for a tech company,” he says. “[The] operating system is the core of distribution.”
+Even if the DOJ gets everything else it wants, Google isn’t likely to fall out of its position as a big tech company. “As long as they have their crown jewels — like YouTube, and Android, and Google Search — as long as they’re part of one entity, they will always be among the best companies.”
+A weekly newsletter by David Pierce designed to tell you everything you need to download, watch, read, listen to, and explore that fits in The Verge’s universe.
+----------------------------------------
+Title: Psychologist Answers Couples Therapy Questions
+Date: No Publication Date
+Content:
+Released on 02/13/2025
+I'm Dr. Orna Goralnik,
+psychologist and psychoanalyst.
+I'm here to answer your questions from the internet.
+This is Couples Therapy Support.
+All right, Level-Studio says,
+'You shouldn't have to change
+for your partner' is an extremely silly oversimplification.
+I agree that it's a silly oversimplification,
+but there is some wisdom in it.
+When people come to therapy
+to see a couple's therapist,
+their hidden agenda is,
+And one of the main things I have
+to do in couples therapy is kind of reverse
+that assumption that really what needs
+to happen is your partner needs to change
+because that is not how it works.
+For couples to live well together,
+each person needs to take responsibility for themselves
+and see what they can change within themselves
+and how can they learn to accept
+and love their partner for who they are.
+Now, that doesn't mean that we don't adjust
+and take seriously how we impact our partner,
+but that is different from expecting your partner
+Depresso_espresso asks,
+My boyfriend thinks he should say
+whatever hurtful thing is on his mind
+because he values the truth.
+Well, that is not helpful.
+If you're talking in hurtful ways to your partner,
+that is just not interesting, not helpful,
+The truth is not everything
+that comes to your mind.
+The truth is what is constructive to the relationship.
+Reddit, if you have to ask yourself
+if you love your partner,
+does that mean you don't?
+No, that doesn't mean you don't.
+People's feelings are something that comes and goes
+and changes all the time depending on the external
+and internal weather,
+depending on things that are happening around us,
+whether it's in the relationship
+or outside in the world.
+So the way we feel changes all the time.
+Even though there might be a very steady undercurrent
+the way you feel from moment to moment
+or day to day can change
+and sometimes you can lose touch with parts of yourself.
+And those are moments when you might ask yourself,
+wait, what's happening here?
+DearSchenelle exclaims,
+My boyfriend can't have female friends!
+Controlling your partner is
+probably not gonna be a good recipe
+for a solid relationship
+and for a mutually respectful relationship.
+You want people to be happy.
+You want them to have like rich and full lives.
+And if your relationship is based
+on limiting your partner's experience in the world,
+that is gonna eventually kill the relationship.
+How do you know your partner is the one?
+I don't know if there is the one.
+It depends on what your philosophy of life is.
+to really commit yourself to another person?
+Depends on many things.
+I don't know what it means really to be the one,
+but if you are in a relationship in which you're growing
+and thriving and feeling a lot of love
+and respect for your partner,
+that sounds pretty good.
+within them a lot of intense fantasies
+that sometimes get in the way of being in reality.
+If you're in a good relationship
+and you are thriving,
+your life is getting better,
+and you're full of love,
+that sounds pretty good.
+What do you all do when your partner needs space
+and you crave closeness?
+That is actually almost the most common dynamic
+that gets formed in a relationship.
+And sometimes people can take turns
+in terms of who's the one that wants
+and who's the one that retreats.
+I sometimes think of it as a hair dryer kind
+of chasing a paper bag.
+There's always some dynamic of push and pull.
+And what do you do about it?
+accept that that's a common dynamic.
+If you use the metaphor of the hairdryer,
+you might realize that sometimes the more you push,
+the more the other person will need to retreat.
+So sometimes it's a good idea
+to paradoxically turn things around.
+And when you realize that someone needs space,
+move back, lean back,
+take care of yourself,
+And then when it's time,
+you'll both come back together.
+seppe_the-stud is asking,
+or does couple therapy sound fun?
+Like I'm just allowed to talk [short beep]
+to my significant other like they ain't sitting
+I do think couples therapy can be fun,
+obviously that's what I do.
+I don't think couples therapy is talking [short beep]
+about your significant others.
+That's not a good use of the therapeutic space,
+but it's a good chance to talk about things
+that it feels too risky
+to talk about when you're on your own.
+in couples therapy is how to create space
+for a more risk taking, dynamic,
+interesting conversation
+that eventually you'll be able to take home
+and you won't need your couples therapist for.
+Is the inner child real or just therapy jargon?
+It's definitely therapy jargon,
+but it's also a real thing in the sense
+that we all carry within us our childhood
+and memories of what it was like to be a child.
+And we still have needs
+and feelings that pertain to that part of ourselves.
+Now, some people continuously grow from their inner child
+and keep evolving and evolving and evolving,
+and some people live in a more fragmented
+I'm not saying this is a pathological way of being.
+It's just we're different that way.
+And some people really do keep within themselves a part
+that really is like an inner child,
+a part of themselves that hasn't necessarily developed
+and that they regress to
+or turn to under certain situations.
+And then they really feel inside like a child.
+But I think it's important for us
+when we love another person to actually tune in
+and to see that all of us still have childish,
+vulnerable, needy, small parts
+that are worth paying attention to.
+Are couples therapists not allowed
+to tell their clients to break up?
+It's not that we're not allowed as couples therapists
+to tell people to break up.
+I'm sure plenty of couples therapists do say to people,
+Maybe it's time to break up.
+I tend to be kind of indeed an optimist and a romantic.
+I like to support couples in their attempt
+and I don't really see my job
+as to tell people how to live their lives.
+I assume if they're coming to see me,
+they want to figure out a way to make things work.
+And it might be really challenging
+and that's a good challenge to face
+because the challenge in a relationship is
+to find a way to accept and know your partner
+and take them as they are
+and address what is coming up in you
+that is getting in the way.
+wasthischeating asks,
+Last night, I thought of another man
+while having sex with my husband.
+There's no one answer to that.
+I mean, one's fantasy life is generally
+one's private experience
+and you don't owe it to anyone.
+But for some people in relationships,
+it's actually exciting
+and a fun thing to know about what's going on
+in your partner's fantasy life.
+it's too threatening.
+So depends on your partner.
+Successful couples don't fight less than other couples,
+That's a quote from John Gottman
+and Julie Schwartz Gottman.
+Oh, have done a lot of research on couples work.
+I agree with that statement.
+or not fighting is not a realistic possibility
+between two people that are obviously different
+'cause you're two people,
+so you're not gonna see the same way,
+you're not gonna need the same things,
+you're gonna disagree on things,
+but then what happens when you disagree?
+Couples form a certain kind
+of political system between them.
+So are you an autocratic political system?
+Do you try to control each other
+or do you try a democratic way of negotiating difference?
+Listen well to each other.
+Figure out how to compromise.
+Figure out how to take turns.
+Fighting well is an art.
+BipolarMindAtNotEase asks,
+that only showing affection
+when they want sex makes us disinclined
+Yeah, that is a pretty common thing
+that women complain about.
+I think one of the issues here is that certain men,
+and this is luckily changing
+with the younger generation,
+sometimes do not really know
+how to establish a feeling
+of connection, and affection,
+and warmth when it's not sexual.
+Meaning they have sex as one
+of their only languages to actually feel close
+which can be off-puting to a woman
+who has other ways of feeling affection and connection.
+Part of the work is to expand the vocabulary
+of what the man learns how to do in a way model
+and teach what it means
+to be affectionate when it doesn't immediately equal sex.
+sauvageonautopilot asks,
+For those with homophobic parents,
+Depends how deep it goes.
+I mean, some people are homophobic
+because of just lack of knowledge
+and not enough experience in the world.
+That can be a pretty thin layer of homophobia
+that with enough patience and time,
+it's easy to break through.
+When homophobia is deep-seated
+and steeped in like a certain kind of fear and bigotry,
+I think part of it is patience
+and part of it is developing really good boundaries
+and not letting the homophobic parent poison your life.
+Is it common to just listen
+to your client and provide no insight?
+Listening and helping a client understand
+what they're going through often involves spending
+opening space for a person
+to listen to their own thoughts.
+when people offer each other advice or insight,
+it's kind of useless.
+It's rare for us to be able to offer something
+that is really helpful to another person
+and it's better to be quiet.
+MikeBane asks, If all feelings are valid,
+then does validation essentially lose all meaning?
+Validation is often a very good thing
+to offer another person.
+People have a deep need to feel understood.
+Is the truth more important than people's feelings?
+In relationships, no.
+So the truth will be useless
+if a person is too upset
+or too hurt to deal with the truth.
+So in a conversation or in a relationship,
+people's feelings are the pre-requirement
+to dealing with the truth,
+which is of course very important.
+When I say that the truth is important,
+I mean the truth of the matter,
+like the thing that really matters.
+I don't mean that facts are important,
+but sometimes people argue
+or talk about facts when they're really trying to get
+to the truth of what matters to them.
+the truth matters a lot.
+RebelliousMindBox asks,
+What to look for in couples therapist?
+I think, first of all,
+to look for someone who you feel comfortable talking to,
+someone who you feel like is wise
+in a way that matters to you,
+someone that makes both of you feel comfortable
+and not like their siding with one or the other,
+and someone who is not closed-minded
+or biased in any direction.
+You want someone who's open.
+United_Biscotti_4402 asks,
+that tells you a couple's relationship will not last?
+I'm not necessarily in the business
+of predicting what people are gonna do
+and what's gonna happen
+because people surprise me all the time,
+but there are signs that alarm me
+that make me feel like,
+Ooh, something is not going well for these people.
+when the kind of goodwill
+and curiosity about each other has evaporated
+and all that's left could be a certain kind
+of disdain or contempt,
+which will kill the relationship.
+Sometimes couples get stuck in patterns
+that feel almost addictive
+of like abuse or mutual put down.
+And when I realized that I can't convince the couple
+to move out of that stage or out of that mode,
+then I think the relationship is doomed.
+I am no longer in love with my husband
+and do not know how to get back there.
+That is a painful place to be.
+Sometimes people go through phases
+in their relationship
+where they lose touch with their love
+or the relationship is changing in a way
+that the old love is no longer relevant.
+People are moving towards a new chapter
+in their relationship.
+And they may need to be patient
+and wait for this kind of new feeling to surface,
+but sometimes the relationship really is dying
+at least for one person,
+and then it's a painful process
+of starting to say goodbye.
+If trust is lost in a relationship,
+how do you gain it back
+to show your partner you're worth trusting?
+It's a great question.
+Trust is not something that you can earn
+by demanding it or forcing it.
+Trust is something that one experiences over time.
+And if trust is broken,
+what needs to happen is that over time,
+the couple needs to be convinced
+that they're in a new and different place.
+And sometimes it takes a long time,
+a long time of consistent trustworthy behavior
+that registers with the other person
+and as a couple as the new reality of their relationship.
+Intuitivempress asks,
+Why do people think when they get in relationships,
+they stop learning and studying their partner?
+LOL, people grow, change,
+and evolve all the time.
+One of the things that happens in relationship is
+that our perception of our partner can get fixed.
+And while our partner is growing,
+we don't really wanna see it.
+There's something about it that might be threatening
+and that's when the relationship starts freezing.
+But, yes, people are changing
+and growing all the time.
+Not to mention that we are governed to some degree
+which keeps sending us all sorts
+of unpredictable messages
+that will change the scene anyhow.
+So, yes, change growth is happening all the time.
+if your family member doesn't like your partner?
+Not an unusual scenario,
+and it's not an unusual scenario,
+because family members specifically don't like partners,
+but when you form a couple,
+you're forming a kind of a new unit
+and the family of origin around
+that unit needs to rearrange itself.
+And that's not necessarily a comfortable rearrangement.
+So people will resist the intrusion
+of someone new into the family system
+and that is a challenge for the couple
+to establish their own boundaries.
+I think if the relationship is important to you,
+you try to really create a good boundary
+around your couplehood
+and make the other family members secondary
+37, male boyfriend hates cleaning.
+Should I charge higher rent?
+Oh, it's a funny way to phrase a question,
+but generally I think it's a good idea for couples
+to have a fair arrangement between them
+and something that feels fair to both of them.
+Now, that's often a very difficult question
+actually, most people view their own work as more
+of a contribution than their partners.
+If a grown man doesn't like cleaning,
+it would be good to ask the grown man,
+What would you wanna do instead
+as your contribution to the relationship?
+And it would be a good conversation to have.
+happilyordinary asks,
+How do I get over my husband cheating on me?
+Complicated question.
+There's no one answer to that question.
+It obviously depends on what happened.
+What was the cheating about?
+Was the cheating in response
+to something that's going on in the relationship,
+something that you can work through in the relationship?
+Was the cheating a habit
+that someone brings into the relationship?
+Hard for them to be honest,
+hard for them to be steady.
+Some cheating can be completely unrelated
+But just like establishing trust is something
+Getting over cheating is something that takes time
+and manifests in consistent behavior.
+Has anyone broke their family's multi-generational
+Yes, plenty of people have.
+The passing on of multigenerational habits,
+beliefs, ideologies, and problems is very common.
+We all come into relationships with our own past
+and with our family's past.
+We all carry within us a legacy
+of how to be in a relationship,
+what to expect of a relationship.
+I can think of a recent couple that I worked with
+where the wife was talking about
+how every woman across the generations
+before her divorced a failing husband,
+failing to thrive husband.
+And she was married to a lovely man.
+I don't know how I break this cycle.
+that history is just gonna repeat itself?
+So yes, it's a common thing to do
+to be influenced by past generations
+and it's a good challenge to have to do better.
+sarvam-sarvatmakam asks,
+How exactly does psychoanalysis help the patient?
+If I had to quickly summarize the main tenets
+of how psychoanalysis helps,
+and I think it's a very powerful and wonderful mode.
+in helping us become acquainted with our unconscious
+with things that we're not aware of that drive us.
+And the second is to understand that
+what happens early in our history has a powerful impact
+on what's happening now in our lives.
+And once we learn what we're bringing in from our history,
+our own history, multi-generational history,
+we can become freer of it.
+I'm in an intercultural relationship
+and sometimes it can be so hard.
+Please, any positive anecdotes, experiences,
+or words of wisdom would be appreciated.
+we're living in a world
+where intercultural relationships are more and more common.
+I think intercultural relationships
+in a way manifest a more extreme version
+of what it means to be in a relationship in general,
+which is that you're in a relationship with someone
+who is different from you By definition.
+I find intercultural relationships particularly interesting
+in the sense that what you see
+in a much more explicit way is
+how culture shapes the private experience.
+We all come from a part particular legacy
+and a particular culture.
+We all carry within us different ideologies,
+different class systems.
+every couple is an intercultural couple.
+But when it's much more explicit,
+I find that it forces people to really tackle
+and be aware how culture kind of really shapes us.
+And the work that couples do
+when they're in intercultural relationships is
+pretty profound work.
+Okay, megannflores is asking,
+How do you know it's the right time
+to leave a relationship?
+if the reason you're leaving a relationship is
+because of the how you are feeling
+or because of something that's happening.
+If you're asking yourself,
+how do I know that I'm ready to leave a relationship?
+Then you check in with yourself.
+Are you still curious about your partner?
+Is there still goodwill that you're generating?
+Or do you feel kind of like dead inside,
+like you lost the livelihood of your feelings?
+Now, if you are wondering
+about whether whatever's going on
+in the relationship is time to leave,
+that's a different question.
+Is the relationship feeling too toxic?
+Is it feeling like you are trying and trying and trying
+and nothing is changing?
+Do you feel like the relationship has sort
+of reached a dead end?
+Then it's time to go.
+I think I have to leave,
+but I can't bring myself to do it.
+How do you build emotional strength to leave?
+How do you build the emotional strength?
+I think part of it is finding this sense
+of truth inside yourself,
+kind of knowing that that's the right thing to do,
+and caring enough about your partner to do it well.
+Meaning to do it with care for the other person,
+for yourself and with respect for the relationship.
+Husband, 37, male was upset I,
+33, female, guided him during sex.
+I'm not sure exactly how to interpret this,
+but what was upsetting about that interaction?
+If we're talking about a man that doesn't want feedback,
+What's the purpose of having sex
+if you're not communicating about what each other want?
+But if we're talking about someone who gives feedback
+in a way that is critical or humiliating,
+then that's good to know.
+Depends how you give each other feedback.
+People are very vulnerable
+when they're sexual with each other,
+and they want to be treated with care and respect.
+Why is it when you're in a stable,
+fulfilling relationship,
+people want you to ruin it with marriage or kids?
+Couples often find that
+even when they're in a very content space,
+there's always this kind of drive
+to take it further, to go further.
+And one of the ways that marriage
+and kids introduce this further
+and more into a relationship is that marriage,
+means you are forming a certain kind
+of contract with your community.
+So you're extending what you're doing
+with your relationship beyond yourself,
+and often you do that so that you're creating a space
+raising is an incredible experience
+that expands your own
+and your couples' meaning in the world.
+It's the option to take care of other people,
+which is, for some of us,
+like the best thing that ever happens.
+Is resentment a normal,
+inevitable part of all romantic relationships?
+Unfortunately, we are not perfect as humans.
+And sadly, resentment is a pretty normal thing
+It's not a great thing.
+Part of what people do, for example,
+in couples work is they figure out
+how not to accumulate resentments,
+but to, first of all,
+work within themselves about what's bothering them
+before they dump it on someone else,
+and then find a way to talk
+in a way that you're asking for what you need
+or saying what's troubling you, ideally, without blame,
+and that's when you are less likely
+to develop resentments.
+Do you always fight with your other half
+on the same things over and over again?
+Couples typically have one
+or two fights that happen in one way
+or another throughout their relationship.
+Ideally, you want that fight to evolve
+and change over time,
+but we do tend to repeat the things that bother us
+TemporaryHeadache asks,
+accidentally ended up tracking
+my wife's, 38, female, periods
+and realized that my entire life revolves around her cycle.
+Concerned about her health
+and wondering if I should say something?
+First of all, let's ignore the fact
+that one accidentally tracks the partner's periods.
+I don't know what that means.
+That's not an accident.
+So for example, if we talk about women's cycles,
+menstrual cycles have a lot to do with hormones.
+So women describe like all sorts of shifts actually.
+It's not always in one or the other direction.
+Shifts in their libido,
+shifts in how they feel within their body,
+or shifts in mood and irritability,
+shifts in how tuned in they are
+to their partner depending on moods.
+The other interesting things about these cycles is
+that the pheromones change
+and people who are really tuned into each other,
+like the partner's desire
+and level of libido can change based on the woman's cycles.
+All of these biological aspects
+of our lives have a very powerful subliminal impact
+not just in this case, the woman.
+My wife always puts the kids first
+and rarely pays attention to me anymore,
+That's not an unusual thing
+to happen in a relationship when kids enter the picture.
+Sometimes the partners need
+to settle into being somewhat marginalized by the kids
+that do take up a lot of attention.
+But sometimes this said wife might need some help
+to pull out of the hyperfocus on the children,
+and that is usually done not by way of criticism,
+but by making sure she has enough help
+or support with the kids
+so that she can pull her attention away from the kids
+and back towards her life as a love partner.
+Cranberryj3lly is asking,
+How to address emotional regulation
+while still letting partner feel his feelings?
+Let me just first say
+that emotional regulation is a hugely important topic
+because there is a certain zone or realm
+of emotionality within which we function well as people.
+So when people are too shut down, or too excited,
+they can't really listen to each other
+and they can't really take in information
+and they can't talk properly.
+And how to find a way that you feel comfortable
+with each other is the ongoing art
+and dance of being in a couple.
+We learn about our partner slowly and gradually.
+What helps them regulate themselves?
+Are there things that you do
+or say that are too triggering for your partner
+and not conducive to a good conversation?
+Are there ways that you can, in your own behavior,
+help your interactions be more contained?
+And then you have to ask your partner to be responsible
+for their own level of excitation
+and their own regulation.
+Why would a woman never really initiate sex
+but says it's amazing
+and she seems to overtly enjoy it?
+There are many ways to think about this question.
+I mean, one is in traditional ways
+that men and women are raised,
+women are not supposed to initiate sex.
+They're not supposed to even want it.
+That's an old style way of gendering sexuality.
+And then there's the question
+of like individual preferences.
+Some people are just less inclined to initiate.
+They want to be pursued.
+And that's kind of their sexual orientation.
+That doesn't mean anything about liking sex.
+It just means that's their orientation.
+Now that doesn't mean that it doesn't change.
+You can talk about it,
+and you can see what works for the person,
+but it's not an alarming sign.
+26, male, distorts/changes the story
+about bad things that happened to him
+and I, 26, female, can't take it.
+Well, there are many reasons why people distort things
+I mean, some of it might be actual conscious
+because they might feel shame,
+or they might feel embarrassed,
+or they wish things were different or better.
+But then people constantly distort their own histories
+and their own stories
+because they're uncomfortable with things,
+and they have different take on reality
+than what other people see.
+the facts of the story are not really what's interesting.
+So arguing about facts
+or distorting facts is somewhat of a waste of time
+because what's interesting is what matters
+to each person about the story they're telling.
+So if someone is distorting a story,
+what might be interesting is not arguing
+about the fact of what happened,
+but how does this person experience
+the story they're talking about?
+Those are all the questions.
+Hope you learn something and see you next time.
+©2025Condé Nast. All rights reserved.WIREDmay earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.Ad Choices
+----------------------------------------
+Title: DOGE Has Deployed Its GSAi Custom Chatbot for 1,500 Federal Workers
+Date: 2025-03-07T23:22:29.351Z
+Content:
+Elon Musk’s so-calledDepartment of Government Efficiencyhas deployed a proprietary chatbotcalled GSAito 1,500 federal workers at the General Services Administration, WIRED has confirmed. The move to automate tasks previously done by humans comes as DOGE continuesits purgeof the federal workforce.
+GSAi is meant to support “general” tasks, similar to commercial tools like ChatGPT or Anthropic’s Claude. It is tailored in a way that makes it safe for government use, a GSA worker tells WIRED. The DOGE team hopes to eventually use it to analyze contract and procurement data,WIRED previously reported.
+“What is the larger strategy here? Is it giving everyone AI and then that legitimizes more layoffs?” asks a prominent AI expert who asked not to be named as they do not want to speak publicly on projects related to DOGE or the government. “That wouldn’t surprise me.”
+In February, DOGE tested the chatbot in a pilot with 150 users within GSA. It hopes to eventually deploy the product across the entire agency, according to two sources familiar with the matter. The chatbot has been in development for several months, but new DOGE-affiliated agency leadership has greatly accelerated its deployment timeline, sources say.
+Federal employees can now interact with GSAi on an interface similar to ChatGPT. The default model is Claude Haiku 3.5, but users can also choose to use Claude Sonnet 3.5 v2 and Meta LLaMa 3.2, depending on the task.
+“How can I use the AI-powered chat?” reads an internal memo about the product. “The options are endless, and it will continue to improve as new information is added. You can: draft emails, create talking points, summarize text, write code.”
+The memo also includes a warning: “Do not type or paste federal nonpublic information (such as work products, emails, photos, videos, audio, and conversations that are meant to be pre-decisional or internal to GSA) as well as personally identifiable information as inputs.” Another memo instructs people not to enter controlled unclassified information.
+The memo instructs employees on how to write an effective prompt. Under a column titled “ineffective prompts,” one line reads: “show newsletter ideas.” The effective version of the prompt reads: “I’m planning a newsletter about sustainable architecture. Suggest 10 engaging topics related to eco-friendly architecture, renewable energy, and reducing carbon footprint.”
+“It’s about as good as an intern,” says one employee who has used the product. “Generic and guessable answers.”
+The Treasury and the Department of Health and Human Services have both recently considered using a GSA chatbot internally and in their outward-facing contact centers, according to documents viewed by WIRED. It is not known whether that chatbot would be GSAi. Elsewhere in the government, the United States Army is using a generative AI tool called CamoGPT to identify and remove references to diversity, equity, inclusion, and accessibility from training materials,WIRED previously reported.
+In February, a project kicked off between GSA and the Department of Education to bring a chatbot product to DOE for support purposes, according to a source familiar with the initiative. The engineering effort was helmed byDOGE operative Ethan Shaotran. In internal messages obtained by WIRED, GSA engineers discussed creating a public “endpoint”—a specific point of access in their servers—that would allow DOE officials to query an early pre-pilot version of GSAI. One employee called the setup “janky” in a conversation with colleagues. The project was eventually scuttled, according to documents viewed by WIRED.
+In a Thursday town hall meeting with staff, Thomas Shedd, a former Tesla engineer who now runs the Technology Transformation Services (TTS), announced that the GSA’s tech branch would shrink by 50 percent over the next few weeks after firingaround 90 technologistslast week. Shedd plans for the remaining staff to work on more public-facing projects like Login.gov and Cloud.gov, which provide a variety of web infrastructure for other agencies. All other non-statutorily required work will likely be cut, Shedd said.
+“We will be a results-oriented and high-performance team,” Shedd said, according to meeting notes viewed by WIRED.
+He’s been supportive of AI and automation in the government for quite some time: In early February, Sheddtold staffthat he planned to make AI a core part of the TTS agenda.
+Dhruv Mehrotra contributed to this report.
+Correction: 3/07/2025, 10:15 pm EDT: A previous version of this article misstated how long the chatbot has been in development. It was months—not years.
+----------------------------------------
+Title: The Best Merino Wool Clothing Keeps You Comfy in Any Weather
+Date: 2023-02-04T14:00:00.000Z
+Content:
+If you buy something using links in our stories, we may earn a commission. This helps support our journalism.Learn more. Please also considersubscribing to WIRED
+Merino wool isa super fiber. The best merino wool clothing somehow manages to be comfortable in 95-degree-Fahrenheit heat, and merino base layers keep you warm well below freezing. Unlike synthetic fibers derived from petroleum, merino wool is natural and renewable.
+Merino wool’s versatility means there’s a bewildering array of blends and options to choose from. Here are our favorite merino wool products that we've tested by wearing and washing (usually in cold water, and hung to dry) over the course of months and even years in some cases. Once you're done here, don't forget to check out the rest of our apparel guides, like theBest Puffer Jackets, theBest Hoodies, and theBest Hiking Boots.
+Updated March 2025: We’ve added new base layers and T-shirts, and we’ve updated links and prices throughout.
+Why Is Merino Wool So Great?
+Merino wool is great because you're stealing a sheep's ability to keep itself warm or cool based on the temperatures it's in, a process often referred to as thermoregulation. If you've only ever worn the sort of itchy wool sweaters your proverbial grandmother supposedly made, you might wonder what all the fuss is. The answer is that Merino sheep have thinner, softer wool, which has evolved to keep them comfortable across a wide range of temperatures and is comfortable to wear next to your skin. Wool is sustainable, too.
+One sheep can produce 4 to 5 pounds of wool per year. That's because the sheep that make merino wool drink only the purest alpine waters and study the art of comfort under the tutelage of those stuck-up Pashmina goats, who, let's face it, might know a thing or two about wonderfully pillowy softness. Just kidding. Merino sheep do have that softer wool though, and merino wool is a remarkable fabric that's become the cornerstone of my wardrobe.
+Merino wool comes in different weights, which you will frequently see listed as "200 GSM” or something similar. (The GSM refers to grams per square meter, sometimes listed as g/m.) What's important is the scale and where your garment falls on it. At the low end, you have T-shirts and underwear, which are typically 150 GSM, though we have seen some as low as 120 GSM. Generally, anything below 200 GSM will be a good base layer or T-shirt. From 200 to 300 GSM are your mid-layers, and anything above 300 is a heavier garment.
+If you're more familiar with synthetic ratings like those often used on fleece, know that, in my experience, about 120–160 GSM wool corresponds to 100 weight fleece, 160–200 GSM wool roughly matches 200 weight fleece and 200+ wool is like 300 weight fleece. In every instance, the wool is warmer because it's better at trapping heat, especially in the wind (that said, there are reasons to go with fleece at times, like how incredibly lightweight it can be).
+Nuyarn is a merino wool synthetic hybrid weave, wherein merino wool is wrapped around a nylon core for warmth, lightness, and extra durability. The idea is to get the temperature regulation benefits of merino, but to add some of the longevity of nylon. In my experience, Nuyarn mostly works. It's our top pick for base layers, though I find it less necessary in more casual garments where I prefer 100 percent wool.
+How to Care for Merino Wool
+Most merino products will have care instructions. Most likely it will be to wash cold and lay flat to dry. The latter is important, as hanging wool to dry will stretch it out (because of the water weight). While most merino labels will say the garment can be machine washed, my experience has been that hand-washing merino will extend its life. This is particularly true of very lightweight (150 GSM) merino base layers and T-shirts. The exception is Minus33's Microweight Raglan short sleeve T-shirt, which is machine-washable and dryer-friendly. Having done both to mine for over a year, it does indeed hold up.
+I've never had a problem storing merino in my closet between wears, but for long-term storage, I recommend you take precautions against moths, which are notorious for eating holes in wool. I have lost merino garments to moths.
+If you don't want to smell like mothballs, there are better solutions. I make sure to wash and thoroughly dry whatever I am storing, then I seal it in acompression bag, like this. Another option is to put your merino garment in a cotton bag or otherwise wrap it in cotton and then put it in a plastic bin. It's very important to make sure that the garment is completely dry before using any of these storage methods, otherwise your wool will smell musty and moldy. Other options include storing your garment in a cedar chest, which is a good natural deterrent for moths, or use moth traps or lavender sachets, which will repel the moths.
+100 Percent Merino vs. Blends
+Should you buy 100 percent merino or should you go for a blend? The answer is … it depends. On the garment in question, the use case, and your preferences. Probably the best way to find out is to try several and see what you like. One advantage to blends is that they're stretchy, which makes them better for active pursuits like hiking, rock climbing and the like. I like 100 percent merino for heavier mid-layers like hoodies or jackets, but I prefer blends for lighter layers. My experience has been that the closer I get to my skin, the more blend I want, with Nuyarn being my top pick for base layers.
+There are also some alpaca blends out there that are also wonderfully soft (I love everything I've tried fromPakaandArms of Andes). If you're one of the rare people who do find merino itchy, you might be allergic to lanolin, which is the skin oil produced by sheep. Alpacas don't make lanolin, and the fibers are thinner and finer than merino. That makes alpaca warmer and softer, but it's also more expensive.
+Merino vs. Synthetic Fibers
+Which is better? The answer again is … it depends (sorry). But usually merino. By synthetics, I generally mean polyester, nylon, polypropylene, rayon, or blends of these and other fabrics—everything but cotton, wool, and linen.
+Synthetics generally win for wicking away sweat, which means they tend to feel drier. They also tend to dry faster, so when it comes to things like socks and underwear, even most "merino" options are often more than 50 percent synthetic. Synthetics are just better at handling moisture. How much this matters depends on a host of personal factors. For example, I feel weird and almost clammy in anything synthetic, so I don't really care how much moisture it wicks away.
+The downside to that moisture wicking is that synthetics retain odor. There are some chemical treatments that can help, but I've never tried anything synthetic that was as odor-resistant as merino wool.
+Another difference is breathability. Synthetics are passable in this department, but it's where merino really excels. If you're hot and are hiking up an exposed slope toward an open pass and then dropping down into the cool of a forest, merino is your friend, because the breathability means less sweat to cool you when you get out of the sun. Again, how much this matters depends on your body.
+The final factor worth thinking about is durability. In some cases, synthetics will last longer than pure merino, particularly in scenarios where abrasion is a major source of wear. To my mind, this is just another reason to choose a merino blend rather than going all the way to synthetics, but it's something to think about if you do a lot of off-trail hiking or rock climbing—any activity where your clothes are going to take a beating.
+To really see how remarkable merino wool is, start at the bottom, with the clothes next to your skin. Merino really shines as a base layer . I's warmer for the weight, wicks moisture better, and unlike synthetic fabrics, merino stays stink-free for days of wear. These are the best merino wool base layer tops and bottoms that we've tested. Be sure to readour layering guidefor more on how to put it all together and stay comfortable in any weather.
+Ibex Woolies Pro Tech base layer crew is the best lightweight merino base layer we've tested. If you want a hard-wearing shirt, this it it. Woolies are Nuyarn (see above), which is 85 percent merino wool and 15 percent nylon—the merino wool is wrapped around a nylon core, which increases the warmth while being lighter (5 oz for the men's large) and more durable. This is my top pick for all things technical. It's what I bring hiking, backpacking, and it's reviews editor Adrienne So's pick for running, climbing and other high-aerobic activities when it’s cold. I also love theWoolies Pro Tech Bottoms ($115), which are what I bring backpacking in all but the warmest of weather. There’s also aquarter zip versionof the shirt if you prefer.
+Aside from comfort and warmth, a bit part of the reason we recommend Woolies is that they last. Ibex is what passes for a heritage company in this space; the company was founded in 1997 and has been cranking out merino garment for a long time. Adrienne's parents bought her two sets of Ibex base layers in 2001 that she still wears today, in the year of our Lord 2025. Properly cared for, Woolies will keep you comfortable warm for years to come.
+Photograph: Scott Gilbertson
+When I want something a bit warmer than the lightweight Woolies above, I reach for Smartwool's Classic long sleeve base layer. These may be the most popular merino shirts around, and for good reason: They're very comfortable, tending to the looser side, feature heavy-duty seams (read: sturdier, longer lasting) that don't rub, and sit off the shoulder for more comfort when wearing a pack. At 87 percent merino wool (blended with nylon), these are also very durable while remaining lightweight (10.3 oz for a men's large). This Smartwool shirt, along withthe matching pants ($115), have been my constant companions through a chilly Wisconsin winter.
+If you're going to be in serious cold, Minus33 is the company to shop. It calls this a midweight, but I find it the perfect heavyweight base layer forsnowy days. It's nice and soft, and paired with the Minus33 Expedition weight hoodie below, it's plenty warm enough for winter hiking and snowshoeing. The seams don't rub, even with a heavy pack on, and the cut is roomy without being too baggy. I've been testing this shirt for over a year now and it still looks like it did the day I got it—almost no pilling and no fraying. Note that the women's version is called the Ossipee, but it's functionally the same shirt.
+The picks above all have what my wife calls “that sporty look,” which the industry refers to as “technical.” This 100 percent merino shirt from Unbound is the opposite: it just looks like a long sleeve shirt. It's incredibly soft and while it does pill a bit if you run it through the dryer (don't), it's proved itself plenty durable—I've been wearing it constantly for over a year now and it still looks like it did when I got it. It's the long-sleeve, base layer twin to our favorite T-shirt (see below). It's on the thin side for a base layer, which makes it perfect for those cool weather mornings in the shoulder seasons. It's versatile too; it can be used as a base layer, but it also works as a T-shirt when it's not too chilly. Fit runs true to size, and if the one you want is sold out, be patient; Unbound frequently updates its stock.
+Fleece has its place, but I rarely wear it these days. I prefer merino for my mid layers. It's better at helping your body regulate its temperature. The one place fleece still wins for me is backpacking, it's almost always lighter for comparable warmth, at least in mid layers.
+Photograph: Icebreaker
+An Icebreaker hoodie was my introduction to merino wool, and it remains my favorite jacket I've ever owned. Alas, after about 10 years, mine had a run-in with moths (see our care guide) and had to be retired. Mine was not the exact style pictured, but very close to it. This jacket is 100 percent merino and incredibly warm, despite not being all that thick. That makes it a great option for days when the weather may vary considerably–it's warm enough for a cold morning but won't be a burden in your pack the rest of the day. This is on the tight-fitting side, so if that's not your thing (and it's not mine), get the next size up.
+Like the Northern Lights or the McRib, the thickest Ibex wool hoodie appears irregularly and with some fanfare. The Mammoth Hoodie is indeed a big, furry beast of a garment—it's basically the weight of the classic American Giant hoodie but made of 85% wool cut with 15% nylon for added warmth and stretch. Ibex says it's the warmest hooie they've ever made, and in my week of testing, I've used it in place of a jacket in mid-30s temps. It has an athletic cut with zippered pockets and thumb holes. I do wear a stocking hat with it in the cold because the scuba hood is meant to fit under a helmet which means it's too small to provide enough warmth for my large shaved head on its own.—Martin Cizmar
+There's a dearth of merino wool for kids. Perhaps the price for something that kids may outgrow in a few months makes the economics unappealing for manufacturers. Whatever the case, very few companies offer kids-size merino (see below for more). In fact, this Minus33 hoodie isn't available in kids' sizes, but the extra-small women's fit my 10-year-old perfectly and continues to fit her as an 11-year-old. You'll want to check the fit chart on Minus33 for your own kids, but if they do fit, this is a fantastic hoodie. It's plenty warm (and my daughter isalways cold) and durable enough to stand up to kid life, climbing trees, and running through the woods, and the hand warmers pair well with mittens on cold days. Best of all when kids are involved, this one can be machine-washed and tumble-dried. It won't shrink or lose its shape, and the colors won't bleed.
+Minus33 calls this an expedition-weight base layer, but for those of us not climbing Mt. Washington at dawn in a windstorm, it's really more of a mid-layer, a pullover sweatshirt—an insanely warm, comfy pullover sweatshirt. My testing time was limited. After a month, my wife stole it and now refers to it as a security blanket and has said it's the one item of clothing she cannot live without.
+I did manage to try it everywhere from the beach on cool mornings to around the campfire on winter evenings, and even as a base layer under apuffer jacketwhen the temps dropped below freezing last winter. In all those situations I stayed plenty warm. The looser fit means it can go over a base layer, but isn't so bulky you can't put a jacket over it.
+A growing number of studies have shown that there are PFAs—hormone-disrupting chemicals that are commonly used in a number of plastics—inordinary sportswear, like leggings and sports bras. If you, like me, are on a quest to replace your polyester clothing with natural fibers, then Ibex’s 100 percent merino wool Shak Jacket is the natural candidate to replace your (my) worn-outPatagonia Better Sweater ($159).
+I took this jacket on a trip this spring to Ireland. It’s surprisingly dense and soft to the touch. It kept me warm on blustery 30-degree days, layered easily under my rain jacket and over my tank top, and looked sleek enough to go out to dinner. In western Ireland, at least (“I like your jumper!” said many an Irishman). It doesn't pack down quite as compactly as a synthetic layer might, nor is it as light, but it looks much nicer and it won't feel like slime on your skin when it gets wet. —Adrienne So
+If you have concerns about usinggoose down jacketsas an insulation layer, merino wool is also a decent substitute for synthetic insulation. Vests are like thecheat codeof layering if you like to keep your core warm but your arms mobile, or you want to get an extra soupçon of warmth without adding too much bulk. I like to layer Ibex's Wool Aire Vest under my regular wool coat or rain shell, if I'm going out for the night or on a long run.—Adrienne So
+Wool might not seem like a good choice for a summer T-shirt, but merino is surprisingly comfortable even when it's warm. To a point anyway. On humid days over about 90 degrees Fahrenheit, I usually go with cotton or linen, but anything under 90 and I'm wearing merino. There are far more merino T-shirt options out there than we can cover, but here are some of our favorites. Note that while I am a fan of crew neck styles, most of these are also available as V neck shirts.
+Photograph: Scott Gilbertson
+These are my absolute favorite T-shirts. They are the softest, best-made, best-fitting T-shirts I've ever worn, merino or otherwise. Yes, they are that good. They're incredibly versatile. I've worn them doing everything from backpacking in the summer heat to rolling jiujitsu to sitting around the fire on cool autumn evenings. They're never anything but comfy. I also like that they have no logo. Unbound'sActive Merino T-shirt ($95), aimed specifically at working out, is also quite nice, but it's a tighter cut than the regular T-shirt.
+When I'm heading out hiking, backpacking, paddleboarding, just about anything outdoors, this is the T-shirt I reach for first. It's lightweight (84 percent 145 GSM merino, 16 percent synthetic) jersey knit is soft and comfortable—not too hot in the sun (it's also UPF Rating 20), warm enough when it's cool. It's also durable (I've been rolling jiu jitsu in this shirt for years and it's fine) and machine washable. You can even throw it in the dryer, no need to baby this T-shirt.
+Artilect’s blend of merino wool and Tencel (a fiber made from eucalyptus) is shockingly lightweight and versatile. This summer, the Utili-Tee became my favorite shirt for climbing and backpacking. It was soft and comfortable when I was in the tree shade, and then magically stayed light and breathable when I broke through the tree line and the temperature suddenly rose by 15 degrees in the sunlight. The flat seams didn’t cause chafing on my shoulders or waist through backpack straps or a harness, and even though it’s a flattering slim fit, it didn’t constrict the movement of my shoulders or arms in any way.—Adrienne So
+You could argue this is the true base layer, but we'll skip that and just say that merino wool underwear, socks, and bras are so much nicer than their synthetic counterparts. If you haven't tried it yet, you're in for a treat. After testing dozens of each, these are our favorites.
+Photograph: Darn Tough
+While merino wool is very soft, most products in this category are blends, usually with some form of nylon. Darn Tough socks are a WIRED favorite. They're great for skiing, hiking, climbing, and just about anything else you want to do. These blends vary by weight, but most of them are around 50 percent nylon and 50 percent merino, which makes them dry a bit faster than pure merino while remaining plenty warm and comfortable. Darn Tough's socks also last. Mine are going on two years now without a worn area or hole in sight.
+Minus33 socks are my personal favorite merino socks. I have several pairs of the lighweight and midweight and even one pair of the expedition, though those are so thick and warm I rarely wear them (they're perfect with the temps drop below 0F though). My favorite are theLightweight Mountain Heritage Boot Wool Socks, which are perfect for hiking or wearing around town. Minus33 doesn't publish a blend breakdown for these, but I would guess they're about 60/40 wool to nylon, with plenty of both softness and stretch to them.
+The phrase “wool underwear” might conjure images of some lumberjack from the 1800s with hair growing through the weaves of his itchy, hot long johns, but that's not what the merino underwear we've tested is like. In most cases these are blends, with some nylon as well.
+Thanks to WIRED readers for pointing out Woolly to us. These 100 percent merino (190 GSM) boxers are fantastic and affordable. They ventilate well and adjust to changing conditions to keep you comfortable even on days when the weather starts hot and ends cold, or as I like to call it, hiking in the mountains. They're on the shorter side with a 4-inch inseam, but Woolly makesthe same thing in a longer cut.
+These are the only 100 percent merino underwear I've tested (there's elastic in the waistband, but it's surrounded by wool), and they're also some of my favorites, especially in cold weather. These are longer than any of the other boxers I've tried. These are 170 GSM, making them a little lighter, but because they merino content is higher, these are the warmest I've tested. After years of testing merino underwear, these are my favorite on all but the hottest days.
+Branwyn makes what they call merino wool performance sets. I ama fan of Branwyn’s clothes, all of which areOeko-Tex 100 certified, which means every component of the clothing has been independently tested against a list of up to 350 toxic chemicals. This is one of the most widely known and respected labels for consumer safety. These fit true to size. (I suppose it’s important to note here that I’m a small-busted woman, and that Branwyn makes aBusty Bra ($58)if you need more support.)
+However, this is not quite supportive enough to go running, which is why Branwyn launched theRacerback Bra ($75). It's pretty impressive that Branwyn got merino wool to be compressive enough for medium impact activity. I like that it offers full coverage, with no annoying small and twisty straps and no padding. It precludes the need to change from cotton “everyday” underwear to tight nylon “sport” underwear every time I want to do something active, which is all the time.—Adrienne So
+I'll confess that when I launched this guide years ago I thought of merino wool mainly as an outdoor-related fabric. It is great for that, but I've since discovered that merino is good for everything, especially travel, since it can be worn several times without any odors. I've tried merino pants, dress shirts, workout clothes, hats, and more. The best stuff I've tested is below.
+Photograph: Scott Gilbertson
+Merino wool pants? Yes. Merino wool all the things. I was skeptical, but I actually love these pants. Don't let the name fool you, they're not shop pants in the sense that Carhartts are. They're much lighter and have a more fitted cut, but there are several leg pockets and a loop you could maybe attach a tool to. Mostly, though, they're just nice casual pants—not too heavy, not too light. They're a blend of 75 percent merino wool (450 GSM), 21 percent bamboo, and 4 percent elastane, which gives them just a bit of flex.
+Photograph: Ridge Merino
+These super comfy, casual sweatpants from Ridge Merino are some of the most comfortable pants I've ever worn. I don't often work out in them, I've never actually jogged in them (oryogged, it might be a soft j), but they're great around the house. These are 100 percent merino wool (275 GSM) with what Ridge calls a terry fabric (they feel like sweatpants).
+What do you do when you've got nice merino wool pants, merino wool underwear, and merino wool socks, but you need something nicer than a T-shirt? That's where this button-down long-sleeve shirt from Woolly comes in. It's a little more formal, what you might call business casual, but still comfortable and soft. The only thing I am not quite so fond of is the slightly shimmery look, but that's just personal preference.
+----------------------------------------
